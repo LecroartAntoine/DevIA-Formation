@@ -18,7 +18,7 @@ async def send_message(message, user_message, name):
         print(e)
 
 def run_discord_bot():
-    TOKEN = 'MTA0Njg0MjMzMzM2ODQyNjYxNw.GojHJR.6WAoqZxTG-q1dFhBIVC-8h6o91VkSpf40gQ-Mo'
+    TOKEN = ''
     bot = commands.Bot(command_prefix = '/', intents = intents)
 
     # async def daily_meme():
