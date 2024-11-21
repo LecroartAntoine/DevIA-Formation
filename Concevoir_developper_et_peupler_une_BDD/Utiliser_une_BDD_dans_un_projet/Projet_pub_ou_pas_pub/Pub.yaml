@@ -1,0 +1,2 @@
+{names: ['01', '02'], nc: 2, train: 'C:\Users\antoi\Documents\GitHub\antoine.lecroart\Concevoir_developper_et_peupler_une_BDD\Utiliser_une_BDD_dans_un_projet\Projet_pub_ou_pas_pub\datasets\images\train',
+  val: 'C:\Users\antoi\Documents\GitHub\antoine.lecroart\Concevoir_developper_et_peupler_une_BDD\Utiliser_une_BDD_dans_un_projet\Projet_pub_ou_pas_pub\datasets\images\val'}

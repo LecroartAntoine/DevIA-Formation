@@ -1,0 +1,5 @@
+police Arial
+text-size 12
+text-align justify
+interligne 1.5
+margin 3

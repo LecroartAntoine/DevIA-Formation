@@ -1,0 +1,58 @@
+{
+    "villes": [
+        {
+            "nom": "Paris",
+            "population": [
+                {"1er Arrondissement": 21295},
+                {"2ème Arrondissement": 28826},
+                {"3ème Arrondissement": 22829},
+                {"4ème Arrondissement": 20928},
+                {"5ème Arrondissement": 29543},
+                {"6ème Arrondissement": 25906},
+                {"7ème Arrondissement": 30853}
+        ],
+            "region": "Île-de-France",
+            "departement": "Paris",
+            "appreciation": "Pôle-nord"
+        },
+        {
+            "nom": "Marseille",
+            "population": 855393,
+            "region": "Provence-Alpes-Côte d'Azur",
+            "departement": "Bouches-du-Rhône", 
+            "appreciation": "Le sud"
+        },
+        {
+            "nom": "Lyon",
+            "population": 515695,
+            "region": "Auvergne-Rhône-Alpes",
+            "departement": "Rhône",
+            "appreciation": "Nord"
+        },
+        {
+            "nom": "Toulouse",
+            "population": 466297,
+            "region": "Occitanie",
+            "departement": "Haute-Garonne",
+            "appreciation": "Le faux sud (l'ouest)"
+        },
+        {
+            "nom": "Nice",
+            "population": [
+                {"1er Arrondissement": 30000, "CP": "06100"},
+                {"2ème Arrondissement": 25000, "CP": "06002"},
+                {"3ème Arrondissement": 20000, "CP": "06003"},
+                {"4ème Arrondissement": 15000, "CP": "06004"},
+                {"5ème Arrondissement": 10000, "CP": "06005"}
+            ],
+            "region": "Provence-Alpes-Côte d'Azur",
+            "departement": "Alpes-maritimes",
+            "appreciation": "Le pôle sud"
+        }
+    ]
+}
+
+
+
+
+

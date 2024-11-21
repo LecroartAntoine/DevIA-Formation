@@ -1,0 +1,80 @@
+{
+    "films": [
+        {
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "genre": "Action",
+            "country": "USA",
+            "director":[
+                {
+                    "last_name" : "Tarantino",
+                    "first_name" : "Quentin",
+                    "birth_date" : 1963
+                }
+            ],
+            "actors":[
+                {
+                    "last_name" : "Travolta",
+                    "first_name" : "John",
+                    "birth_date" : 1954,
+                    "role" : "Vincent Vega"
+                },
+                {
+                    "last_name" : "Wilis",
+                    "first_name" : "Bruce",
+                    "birth_date" : 1965,
+                    "role" : "Thanos"
+                },
+                {
+                    "last_name" : "Tarantino",
+                    "first_name" : "Quentin",
+                    "birth_date" : 1963,
+                    "role" : "Idéfix"
+                }
+            ]
+        },
+        {
+            "title": "Death Proof",
+            "year": 2007,
+            "genre": "Horror",
+            "country": "USA",
+            "director":[
+                {
+                    "last_name" : "Tarantino",
+                    "first_name" : "Quentin",
+                    "birth_date" : 1963
+                },
+                {
+                    "last_name" : "Tarantina",
+                    "first_name" : "Quentinne",
+                    "birth_date" : 1936
+                }
+            ],
+            "actors":[
+                {
+                    "last_name" : "Russell",
+                    "first_name" : "Kurt",
+                    "birth_date" : 1951,
+                    "role" : "Mike"
+                },
+                {
+                    "last_name" : "Wilis",
+                    "first_name" : "Bruce",
+                    "birth_date" : 1965,
+                    "role" : "Guest"
+                },
+                {
+                    "last_name" : "Tarantino",
+                    "first_name" : "Quentin",
+                    "birth_date" : 1963,
+                    "role" : "Warren"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+

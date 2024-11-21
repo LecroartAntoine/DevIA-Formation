@@ -1,0 +1,272 @@
+<h1 id="api-par-élène-carvalho-antoine-lecroart">API par Élène Carvalho
+&amp; Antoine Lecroart</h1>
+<p>Bienvenue dans la documentation de l’API pour les fonctionnalités
+suivantes :</p>
+<ul>
+<li>/val qui retourne une valeur entière aléatoire comprise entre 0 et
+100</li>
+<li>/val?nb=n (où n est un nombre entier positif) qui retourne du code
+JSON contenant un tableau de n valeurs entières aléatoires comprises en
+-1000 et +1000</li>
+<li>/calc/add?n1=n&amp;n2=m (où n et m sont des nombres entiers
+positifs) retourne un simple texte contenant le résultat de l’addition
+de n et m</li>
+<li>/calc/prod?n1=n&amp;n2=m (où n et m sont des nombres entiers
+positifs) retourne un code HTML mis en forme qui présente dans un
+navigateur le calcul du produit de n et m sous la forme 4 x 5 = 20</li>
+<li>/img?num=n (où n vaut un chiffre compris en 1 et 9) pour retourner
+une des 9 images possibles</li>
+</ul>
+<p>De plus, cette API permet également d’accéder aux informations des
+stations de vélo en libre-service de Besançon :</p>
+<ul>
+<li>stations_velo?id=n retourne l’ensemble des informations sur la
+station n (sous forme d’un document JSON) prises dans le document JSON :
+https://www.juleshaag.fr/devIA/devAPI/station_information.json</li>
+<li>stations_velo?id=n&amp;addr qui retourne l’adresse de la station de
+vélo n, sous forme d’un texte</li>
+<li>stations_velo?id=n&amp;cap qui retourne la capacité de la station de
+vélo n, sous forme d’un nombre entier</li>
+<li>stations_velo?id=toutes&amp;cap qui retourne la capacité totale de
+l’ensemble des stations contenues dans le fichier</li>
+<li>stations_velo/n/addr qui retourne l’adresse de la station de vélo n,
+sous forme d’un texte</li>
+<li>stations_velo/n/cap qui retourne la capacité de la station de vélo
+n, sous forme d’un nombre entier</li>
+<li>stations_velo/toutes/cap qui retourne un JSON contenant, par id, la
+capacité de chaque station ainsi que la capacité de l’ensemble des
+stations contenues dans le fichier.</li>
+</ul>
+<h1 id="utilisation">Utilisation</h1>
+<p>Pour utiliser cette API, vous devrez d’abord installer django et
+Pillow pip install django pip install Pillow</p>
+<p>Puis, lancer le serveur en local.<br> Pour cela, vous devez exécuter
+la commande suivante dans votre terminal :<br> python
+chemin/vers/serveur/manage.py runserver</p>
+<p>Cela démarrera le serveur local de l’API, ce qui vous permettra
+d’envoyer des requêtes à l’aide de votre navigateur ou d’un autre client
+HTTP. Une fois le serveur démarré, vous pourrez accéder aux endpoints de
+l’API à partir de l’URL http://127.0.0.1:8000/ OU
+http://localhost:8000.</p>
+<h3 id="val"><strong>/val</strong></h3>
+<p>Cet endpoint retourne une valeur entière aléatoire comprise entre 0
+et 100.</p>
+<ul>
+<li>Endpoint : /val</li>
+<li>Méthode : GET</li>
+<li>Paramètres : Aucun</li>
+<li>Réponse : Un nombre entier aléatoire compris entre 0 et 100</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET https://127.0.0.1:8000/val
+
+Réponse : 42</code></pre>
+<h3 id="valnbn"><strong>/val?nb=n</strong></h3>
+<p>Cette endpoint retourne un tableau de n valeurs entières aléatoires
+comprises en -1000 et +1000. - Endpoint : /val?nb=n - Méthode : GET -
+Paramètres : nombre entier positif (obligatoire) - Réponse : Un tableau
+JSON contenant n nombres entiers aléatoires compris entre -1000 et
++1000</p>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/val?nb=5
+
+Réponse : [345, -123, 789, 234, -897]</code></pre>
+<h3 id="calcaddn1nn2m"><strong>/calc/add?n1=n&amp;n2=m</strong></h3>
+<p>Cette endpoint retourne un simple texte contenant le résultat de
+l’addition de n et m.</p>
+<ul>
+<li>Endpoint : /calc/add?n1=n&amp;n2=m</li>
+<li>Méthode : GET</li>
+<li>Paramètres : n1 : nombre entier positif (obligatoire) n2 : nombre
+entier positif (obligatoire)</li>
+<li>Réponse : Un texte contenant le résultat de l’addition de n1 et
+n2</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/calc/add?n1=10&amp;n2=5
+
+Réponse : 15</code></pre>
+<h3 id="calcprodn1nn2m"><strong>/calc/prod?n1=n&amp;n2=m</strong></h3>
+<p>Cette endpoint retourne un code HTML mis en forme qui présente dans
+un navigateur le calcul du produit de n et m sous la forme 4 x 5 =
+20.</p>
+<ul>
+<li>Endpoint : /calc/prod?n1=n&amp;n2=m</li>
+<li>Méthode : GET</li>
+<li>Paramètres : n1 : nombre entier positif (obligatoire) n2 : nombre
+entier positif (obligatoire)</li>
+<li>Réponse : Une page HTML contenant le calcul du produit de n1 et n2
+sous la forme “n1 x n2 = résultat”</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/calc/prod?n1=4&amp;n2=5
+
+Réponse : 4 x 5 = 20</code></pre>
+<h3 id="imgnumn"><strong>/img?num=n</strong></h3>
+<p>Cette endpoint retourne une des 9 images possibles à partir du
+chiffre n compris entre 1 et 9.</p>
+<ul>
+<li>Endpoint : /img?num=n</li>
+<li>Méthode : GET</li>
+<li>Paramètres : num : chiffre compris entre 1 et 9 (obligatoire)</li>
+<li>Réponse : L’image correspondant au chiffre spécifié</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/img?num=3
+
+Réponse : (l&#39;image correspondant au chiffre 3)</code></pre>
+<h2 id="utilisation-accès-stations-libre-service-besançon">Utilisation
+accès stations libre-service Besançon</h2>
+<h3 id="stations_veloidn"><strong>stations_velo?id=n</strong></h3>
+<p>Cette endpoint retourne l’ensemble des informations sur la station n
+(sous forme d’un document JSON) prises dans le document JSON :
+https://www.juleshaag.fr/devIA/devAPI/station_information.json.</p>
+<ul>
+<li>Endpoint : /stations_velo?id=n</li>
+<li>Méthode : GET</li>
+<li>Paramètres : id : numéro de l’ID de la station (obligatoire)</li>
+<li>Réponse : Un document JSON contenant les informations de la station
+spécifiée par l’ID</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo?id=17
+
+Réponse : 
+{
+    &quot;address&quot;: &quot;5, RUE DE L&#39;INDUSTRIE&quot;,
+    &quot;available_bikes&quot;: 7,
+    &quot;available_bike_stands&quot;: 12,
+    &quot;bike_stands&quot;: 19,
+    &quot;last_update&quot;: 1618576027000,
+    &quot;name&quot;: &quot;La Fayette&quot;,
+    &quot;number&quot;: 17,
+    &quot;position&quot;: {
+        &quot;lat&quot;: 47.236488,
+        &quot;lng&quot;: 6.014331
+    }
+}</code></pre>
+<h3
+id="stations_veloidnaddr"><strong>stations_velo?id=n&amp;addr</strong></h3>
+<p>Cette endpoint retourne l’adresse de la station de vélo n, sous forme
+d’un texte.</p>
+<ul>
+<li>Endpoint : /stations_velo?id=n&amp;addr</li>
+<li>Méthode : GET</li>
+<li>Paramètres : id : numéro de l’ID de la station (obligatoire)</li>
+<li>Réponse : Un texte contenant l’adresse de la station spécifiée par
+l’ID</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo?id=17&amp;addr
+
+Réponse : &quot;5, RUE DE L&#39;INDUSTRIE&quot;</code></pre>
+<h3
+id="stations_veloidncap"><strong>stations_velo?id=n&amp;cap</strong></h3>
+<p>Cette endpoint retourne la capacité de la station de vélo n, sous
+forme d’un nombre entier.</p>
+<ul>
+<li>Endpoint : /stations_velo?id=n&amp;cap</li>
+<li>Méthode : GET</li>
+<li>Paramètres : id : numéro de l’ID de la station (obligatoire)</li>
+<li>Réponse : Un nombre entier représentant la capacité de la station
+spécifiée par l’ID</li>
+</ul>
+<p>Exemple</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo?id=17&amp;cap
+
+Réponse : 19</code></pre>
+<h3
+id="stations_veloidncapaddr"><strong>stations_velo?id=n&amp;cap&amp;addr</strong></h3>
+<p>Cette endpoint retourne la capacité et l’adresse de la station de
+vélo n, sous forme d’un texte.</p>
+<ul>
+<li>Endpoint : /stations_velo?id=n&amp;cap&amp;addr</li>
+<li>Méthode : GET</li>
+<li>Paramètres : id : numéro de l’ID de la station (obligatoire)</li>
+<li>Réponse : Un texte contenant la capacité et l’adresse de la station
+spécifiée par l’ID</li>
+</ul>
+<p>Exemple</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo?id=17&amp;cap
+
+Réponse : 
+&quot;Adresse : 5, RUE DE L&#39;INDUSTRIE
+Capacité : 19&quot;</code></pre>
+<h3
+id="stations_veloidtoutescap"><strong>stations_velo?id=toutes&amp;cap</strong></h3>
+<p>Cette endpoint retourne la capacité totale de l’ensemble des stations
+contenues dans le fichier.</p>
+<ul>
+<li>Endpoint : /stations_velo?id=toutes&amp;cap</li>
+<li>Méthode : GET</li>
+<li>Paramètres : id : “toutes” (obligatoire)</li>
+<li>Réponse : Un nombre entier représentant la capacité totale de toutes
+les stations</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo?id=toutes&amp;cap
+
+Réponse : 400</code></pre>
+<h3 id="stations_velonaddr"><strong>stations_velo/n/addr</strong></h3>
+<p>Cette endpoint retourne l’adresse de la station de vélo n, sous forme
+d’un texte.</p>
+<ul>
+<li>Endpoint : /stations_velo/n/addr</li>
+<li>Méthode : GET</li>
+<li>Paramètres : n : numéro de l’ID de la station (obligatoire)</li>
+<li>Réponse : Un texte contenant l’adresse de la station spécifiée par
+l’ID</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo/17/addr
+
+Réponse : &quot;5, RUE DE L&#39;INDUSTRIE&quot;</code></pre>
+<h3 id="stations_veloncap"><strong>stations_velo/n/cap</strong></h3>
+<p>Cette endpoint retourne la capacité de la station de vélo n, sous
+forme d’un nombre entier.</p>
+<ul>
+<li>Endpoint : /stations_velo/n/cap</li>
+<li>Méthode : GET</li>
+<li>Paramètres : n : numéro de l’ID de la station (obligatoire)</li>
+<li>Réponse : Un nombre entier représentant la capacité de la station
+spécifiée par l’ID</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo/17/cap
+
+Réponse : 19</code></pre>
+<h3
+id="stations_velotoutescap"><strong>stations_velo/toutes/cap</strong></h3>
+<p>Cette endpoint retourne un JSON contenant, par ID, la capacité de
+chaque station ainsi que la capacité de l’ensemble des stations
+contenues dans le fichier.</p>
+<ul>
+<li>Endpoint : /stations_velo/toutes/cap</li>
+<li>Méthode : GET</li>
+<li>Paramètres : Aucun</li>
+<li>Réponse : Un document JSON contenant les capacités de toutes les
+stations, ainsi que la capacité totale de l’ensemble des stations</li>
+</ul>
+<p>Exemple :</p>
+<pre><code>GET http://127.0.0.1:8000/stations_velo/toutes/cap
+
+Réponse : 
+{
+    &quot;1&quot;:{
+        &quot;capacité&quot;: 20
+    },
+    &quot;2&quot;:{}
+        &quot;capacité&quot;: 10
+    },
+    &quot;3&quot;:{
+        &quot;capacité&quot;: 12
+    },
+    ...
+    &quot;Capacité totale&quot;: 1000
+}</code></pre>
+<h2 id="conclusion">Conclusion</h2>
+<p>Vous avez maintenant accès à l’API pour accéder à différents aux
+informations des stations de vélo en libre-service de Besançon.
+N’oubliez pas de terminer le serveur local en utilisant la commande
+Ctrl+C dans votre terminal lorsque vous avez terminé d’utiliser
+l’API.</p>

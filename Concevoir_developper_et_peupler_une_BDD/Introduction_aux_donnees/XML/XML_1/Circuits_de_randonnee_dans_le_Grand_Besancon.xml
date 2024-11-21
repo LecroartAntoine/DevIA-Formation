@@ -1,0 +1,2171 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Circuits de Randonnée dans le Grand Besançon -->
+<Rando>
+    <status>success</status>
+    <description>liste des randos</description>
+    <liste>
+        <rando id="44" type="VTT" dtInfo="2019-03-28">
+            <nom>Circuit VTT n°121</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre>Braillans</communeAutre>
+            <departAutre>Braillans : parking du restaurant</departAutre>
+            <depart>FORET DE CHAILLUZ - Les Grandes Baraques</depart>
+            <arrivee>FORET DE CHAILLUZ - Les Grandes Baraques</arrivee>
+            <descriptif>Circuit agréable alternant petits sentiers et chemins plus larges, petites descentes et courtes montées sous couvert forestier. Circuit idéal pour petits et grands, mais aussi pour les novices qui souhaitent se familiariser avec la discipline.</descriptif>
+            <alerte>Vu l’état sanitaire préoccupant de certains arbres sur les parcelles forestières 84 – 85 – 88- 89 – 96 – 98 et 99, les tronçons des circuits VTT n°121 et 122 parcourant lesdites parcelles sont fermés au public. Les usagers sont invités à emprunter les itinéraires de déviation mis en place, identifiés par un balisage VTT de liaison.</alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt121/illustration_vtt121.jpg</photo>
+            <duree>50 min</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>7.8</longueur>
+            <denivele>80</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt121/GB-vtt-121.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt121/profil_vtt121.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.29719</departX>
+            <departY>6.05226</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt121/vtt121.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt121/plangeneralvtt121.pdf</carteGenerale>
+        </rando>
+        <rando id="58" type="VTT" dtInfo="2018-06-12">
+            <nom>Circuit VTT n°25</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Roche-lez-Beaupré</commune>
+            <communeAutre>Novillars</communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking de la mairie</depart>
+            <arrivee>Parking de la mairie</arrivee>
+            <descriptif>Idéal pour la découverte du VTT, ce circuit court et sans difficulté ravira toute la famille. Possibilité de doubler la distance du circuit en empruntant la liaison avec le circuit VTT n°23 (départ de Novillars).
+Dans ce cas, ajouter aux cotations initiales : 6km - 1h et 50m de dénivelé</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt25/illustration_vtt25.jpg</photo>
+            <duree>1h</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>6.5</longueur>
+            <denivele>100</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt25/GB_vtt25.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt25/vtt25_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.276444</departX>
+            <departY>6.111965</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt25/vtt25.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt25/plangeneralvtt25.pdf</carteGenerale>
+        </rando>
+        <rando id="28" type="VTT" dtInfo="2016-10-11">
+            <nom>Circuit VTT 112</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Gennes</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Salle polyvalente</depart>
+            <arrivee></arrivee>
+            <descriptif>Ce circuit qui commence par un faux plat montant, vous fera pénétrer dans les hêtraies-sapinières et passer proche du Fort des Epesses, lieu chargé d&apos;histoire. Parcours globalement roulant et agréable, qui allie chemins forestiers et sentier monotrace. Toutefois, vous trouverez plusieurs passages très techniques où seuls les experts ne mettront pas le pied à terre.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt112/illustration_vtt112.jpg</photo>
+            <duree>1h15</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>10.4</longueur>
+            <denivele>200</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt112/vtt112.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt112/profil_vtt112.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/vtt112/vtt112.flv</video>
+            <lignesBus>gennes : ligne 81</lignesBus>
+            <departX>6.123795</departX>
+            <departY>47.241244</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt112/vtt112.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt112/vtt112.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="34" type="VTT" dtInfo="2019-03-29">
+            <nom>Circuit VTT 118</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Boussières</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Église</depart>
+            <arrivee></arrivee>
+            <descriptif>Parcours relativement roulant où vous trouverez tous types de sols : le circuit alterne entre chemins blanc, portions de petites routes peu fréquentées et sentiers en sous-bois. Un passage ludique le long d&apos;un ruisseau deviendra délicat lorsqu&apos;il faudra passer d&apos;une rive à l&apos;autre, et ce à deux reprises. Vous noterez tout de même quelques petites difficultés, notamment des petites montées techniques où par temps humide, le pied à terre s&apos;imposera.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt118/illustration_vtt118.jpg</photo>
+            <duree>1h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>9.2</longueur>
+            <denivele>270</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt118/vtt118.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt118/profil_vtt118.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Boussières : ligne 54</lignesBus>
+            <departX>5.901884</departX>
+            <departY>47.15736</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt118/vtt118.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt118/vtt118.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt118/plangeneralvtt118.pdf</carteGenerale>
+        </rando>
+        <rando id="31" type="VTT" dtInfo="2016-10-11">
+            <nom>Circuit VTT 21</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Nancray</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Musée des maisons comtoises</depart>
+            <arrivee></arrivee>
+            <descriptif>Ce circuit assez court vous emmènera tout d&apos;abord dans les rues du Bourg de Nancray à la rencontre de ses habitants et au milieu des pâtures ou s&apos;épanouit le cheval comtois. Cette première partie vous permettra de vous échauffer. Malgré les apparences, le second tronçon sera plus technique et les relances répétitives. Une bonne approche du VTT pour ce parcours complet, qui sera un choix parfait pour les novices avant d&apos;augmenter distance et dénivelé</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt21/illustration_vtt21.jpg</photo>
+            <duree>0h50</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>10.3</longueur>
+            <denivele>100</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt21/vtt21.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt21/profil_vtt21.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/vtt21/vtt21.flv</video>
+            <lignesBus>Nancray : ligne 82</lignesBus>
+            <departX>6.185018</departX>
+            <departY>47.239631</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt21/vtt21.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt21/vtt21.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="61" type="VTT" dtInfo="2018-06-12">
+            <nom>Circuit VTT n°119</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sur l&apos;Eurovélo 6</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Deluz</commune>
+            <communeAutre>Vaire</communeAutre>
+            <departAutre></departAutre>
+            <depart>Halte fluviale</depart>
+            <arrivee>Halte fluviale</arrivee>
+            <descriptif>Ce circuit vous fera découvrir la commune de Deluz avec sa diversité de paysages et d&apos;architectures.
+Le parcours, parfois technique, est jalonné de quelques dénivelés sympathiques que ce soit en descente ou en montée.
+Suivant l&apos;allure donnée, ce circuit peut se révéler sportif.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt119/illustration_vtt119.jpg</photo>
+            <duree>1h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>10.2</longueur>
+            <denivele>170</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt119/GB_vtt119.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt119/vtt119_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.292295</departX>
+            <departY>6.203158</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt119/vtt119.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt25/plan_vtt119_deluz.pdf</carteGenerale>
+        </rando>
+        <rando id="45" type="VTT" dtInfo="2018-06-12">
+            <nom>Circuit VTT n°122</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre>Braillans : parking du restaurant</communeAutre>
+            <departAutre></departAutre>
+            <depart>FORET DE CHAILLUZ - Les Grandes Baraques</depart>
+            <arrivee>FORET DE CHAILLUZ - Les Grandes Baraques</arrivee>
+            <descriptif>Le circuit vous conduira aux limites de la forêt de Chailluz, où les étendues d&apos;arbres laissent place à des clairières. Après les fermes équestres, deux montées difficiles vous conduiront au Vieux Tilleul (vieux sage de quatre siècles) puis aux vestiges de la Chapelle Saint Jean Gulf. S&apos;en suivra une descente parfois technique jusqu&apos;à l&apos;arrivée.</descriptif>
+            <alerte>Vu l’état sanitaire préoccupant de certains arbres sur les parcelles forestières 84 – 85 – 88- 89 – 96 – 98 et 99, les tronçons des circuits VTT n°121 et 122 parcourant lesdites parcelles sont fermés au public. Les usagers sont invités à emprunter les itinéraires de déviation mis en place, identifiés par un balisage VTT de liaison.</alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt122/illustration_vtt122.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>14.8</longueur>
+            <denivele>320</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt122/GB-vtt-122.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt122/profil_vtt122.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.29719</departX>
+            <departY>6.05226</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt122/vtt122.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="46" type="VTT" dtInfo="2018-06-12">
+            <nom>Circuit VTT n°123</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre>Braillans : parking du restaurant</communeAutre>
+            <departAutre></departAutre>
+            <depart>FORET DE CHAILLUZ - Les Grandes Baraques</depart>
+            <arrivee>FORET DE CHAILLUZ - Les Grandes Baraques</arrivee>
+            <descriptif>Ce circuit de difficulté moyenne vous fera pénétrer dans des hêtraies-sapinières, alternant chemins larges et chemins étroits. Vitesse et rapidité devront être conciliées avec une certaine agilité et dextérité pour la réussite de ce circuit.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt123/illustration_vtt123.jpg</photo>
+            <duree>1h15</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8.1</longueur>
+            <denivele>150</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt123/GB-vtt-123.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt123/profil_vtt123.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX></departX>
+            <departY></departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt123/vtt123.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="59" type="VTT" dtInfo="2019-03-28">
+            <nom>Circuit VTT n°23</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Novillars</commune>
+            <communeAutre>Roche-lez-beaupré</communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking de la mairie</depart>
+            <arrivee>Parking de la mairie</arrivee>
+            <descriptif>Ce circuit sympathique et ludique vous emmène au coeur du bois de Ban au milieu des hêtraies-sapinières. Sans réelles difficultés, le tracé peut devenir plus technique durant l&apos;hiver ou par temps de pluie.
+Possibilité de doubler la distance en liaisonnant avec le circuit VTT 25 (départ de Roche-lez-Beaupré). Dans ce cas, ajouter aux cotations initiales : 5km - 1h et 30m de dénivelé.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt23/illustration_vtt23.jpg</photo>
+            <duree>1h20</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8</longueur>
+            <denivele>130</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt23/GB_vtt23.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt23/vtt23_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.28336</departX>
+            <departY>6.13432</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt23/vtt23.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt23/plangeneralvtt23.pdf</carteGenerale>
+        </rando>
+        <rando id="26" type="VTT" dtInfo="2016-10-11">
+            <nom>Circuit VTT 114</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Beure</commune>
+            <communeAutre>Arguel / Fontain</communeAutre>
+            <departAutre>mairie d&apos;arguel ( 47.198117, 6.002148) / Eglise de Fontain(47.201342,6.024694)</departAutre>
+            <depart>Place jean Grappin</depart>
+            <arrivee></arrivee>
+            <descriptif>Circuit agréable alternant chemins de crêtes en forêt et en campagne, il permet de découvrir les vallons des Mercureaux  et d&apos;Arguel/Pugey où serpentent à travers champs leurs ruisseaux. Vous profiterez des sentiers dans les sous-bois et de petites routes peu fréquentées. En chemin vous pourrez remarquer des sites patrimoniaux religieux  et militaires, ainsi que de magnifiques belvédères : notamment la Citadelle Vauban inscrite au patrimoine Mondiale de l&apos;UNESCO.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt114/illustration_vtt114.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>17.7</longueur>
+            <denivele>550</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt114/vtt114.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt114/profil_vtt114.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/vtt114/vtt114.flv</video>
+            <lignesBus>Beure : lignes 51 ou 85 ou 86                         Arguel : lignes 85 ou 86     Fontain : ligne 84</lignesBus>
+            <departX>6.001238</departX>
+            <departY>47.20666</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt114/vtt114.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt114/vtt114.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="33" type="VTT" dtInfo="2019-03-28">
+            <nom>Circuit VTT 117</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>Sur l&apos;Eurovélo 6</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Osselle-Routelle</commune>
+            <communeAutre>Torpes</communeAutre>
+            <departAutre>Mairie de Torpes ( 47.169714, 5.891809)</departAutre>
+            <depart>Base de loisirs d&apos;Osselle / Eglise de Routelle</depart>
+            <arrivee></arrivee>
+            <descriptif>Circuit de difficulté moyenne s&apos;adressant tout de même aux vététistes confirmés. Il combine campagne et forêt et vous invite à traverser quelques plaines cultivées de maïs, colza et blé ... vous alternerez entre passages et descentes techniques et côtes abruptes, entre point de vue magnifique sur la vallée du Doubs et faune sauvage ... le tout entre ivresse de la vitesse et galère de la souffrance. Mais après avoir fait ce circuit vous n&apos;aurez qu&apos;une envie, ... y retourner. Profitez de votre passage par le plan d&apos;eau d&apos;Osselle pour faire une pause ravitaillement.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt117/illustration_vtt117.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>16.6</longueur>
+            <denivele>375</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt117/vtt117.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt117/profil_vtt117.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Osselle-Routelle : ligne 56 Torpes: ligne 55</lignesBus>
+            <departX>5.85036</departX>
+            <departY>47.16664</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt117/vtt117.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt117/vtt117.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt117/plangeneralvtt117.pdf</carteGenerale>
+        </rando>
+        <rando id="30" type="VTT" dtInfo="2016-10-11">
+            <nom>Circuit VTT 20</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Nancray</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Musée des maisons comtoises</depart>
+            <arrivee></arrivee>
+            <descriptif>Ce circuit assez difficile qui demande quelques connaissances techniques et une bonne condition physique, conviendra plus particulièrement aux initiés. Vous profiterez des sentiers dans les sous-bois et de petites routes peu fréquentées en plaine, qui vous feront passer d&apos;un versant à l&apos;autre, alternant vue sur la Vallée du Doubs et le Plateau.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt20/illustration_vtt20.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>15.8</longueur>
+            <denivele>370</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt20/vtt20.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt20/profil_vtt20.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/vtt20/vtt20.flv</video>
+            <lignesBus>Nancray : ligne 82</lignesBus>
+            <departX>6.185018</departX>
+            <departY>47.239631</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt20/vtt20.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt20/vtt20.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="32" type="VTT" dtInfo="2017-09-26">
+            <nom>Circuit VTT 38</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Boussières</commune>
+            <communeAutre></communeAutre>
+            <departAutre>Mairie de Torpes ( 47.169714, 5.891809) Terrain de foot d&apos;Avanne-Aveney(47.201523, 5.962191) Ancien stade de foot de Grandfontaine(47.198607, 5.905403) Aire de jeux de Montferrand le château (47.178075, 5.90947 Mairie de Rancenay (47.186913, 5.949295) mairie de Thoraise (47.17437, 5.902392)</departAutre>
+            <depart>Église</depart>
+            <arrivee></arrivee>
+            <descriptif>Parcours vallonné, il allie bois et prairies et vous invite à traverser les villages de l&apos;agglomération Bisontine où dominent clochers Franc-Comtois, châteaux, lavoirs et autres maisons de caractères ... et de découvrir les panoramas des hauts de Torpes et de la Chapelle Notre Dame. Malgré une mise en jambe un peu difficile et quelques passages techniques, ce circuit reste tout de même accessible et offre la possibilité de découvrir de nombreuses curiosités.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt38/illustration_vtt38.jpg</photo>
+            <duree>3h30</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>32</longueur>
+            <denivele>700</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt38/vtt38.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt38/profil_vtt38.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Boussières : ligne 54   Torpes : ligne 55   Avanne-Aveney : lignes 52 ou 22  Grandfontaine : lignes 55 ou 56  Montferrand-le-château : lignes 53 ou 54  rancenay : ligne 52   Thoraise : ligne 54</lignesBus>
+            <departX>5.901884</departX>
+            <departY>47.15736</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt38/vtt38.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt38/vtt38.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt38/plangeneralvtt38.pdf</carteGenerale>
+        </rando>
+        <rando id="27" type="VTT" dtInfo="2016-10-11">
+            <nom>Circuit VTT 57</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Vorges-Les-Pins</commune>
+            <communeAutre>Busy/ Larnod</communeAutre>
+            <departAutre>Mairie de Busy( 47.166287, 5.946926) / Stade de Larnod (47.188777, 5.969808)</departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>Circuit assez difficile qui demande quelques connaissances techniques et une bonne condition physique. Vous devrez être vigilants dans les descentes et costaud dans les ascensions. Mais vous pourrez également profiter du paysage et des différents panoramas qui s&apos;offrent à vous, notamment les vallées du Doubs et de la Loue. Quelques parties roulantes non loin des Granges Mathieu permettront de soulager vos efforts.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt57/illustration_vtt57.jpg</photo>
+            <duree>3h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>23.1</longueur>
+            <denivele>600</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt57/vtt57.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt57/profil_vtt57.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/vtt57/vtt57.flv</video>
+            <lignesBus>Vorges-les-pins :ligne 51      Busy : ligne 51    Larnod : lignes 51 ou 86</lignesBus>
+            <departX>5.928231</departX>
+            <departY>47.157675</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt57/vtt57.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt57/vtt57.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="47" type="VTT" dtInfo="2019-03-28">
+            <nom>Circuit VTT n°124</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Besançon</commune>
+            <communeAutre>Braillans</communeAutre>
+            <departAutre>Braillans : parking du restaurant</departAutre>
+            <depart>FORET DE CHAILLUZ - Les Grandes Baraques</depart>
+            <arrivee>FORET DE CHAILLUZ - Les Grandes Baraques</arrivee>
+            <descriptif>Le parcours vous emmènera aux limites de la forêt de Chailluz. Après les fermes équestres, les choses sérieuses commenceront : une longue ascension, ponctuée de portions raides vous conduira jusqu&apos;au sommet de la crête, au Fort de la Dame Blanche. S&apos;en suivra une descente rapide et technique. Une fin de parcours au milieu des hétraies-sapinières permettra d&apos;enchainer des phases ludiques à allure vives et énergiques. Quelques points de vue panoramiques permettront aux plus chanceux d&apos;apercevoir Besançon et ses environs, mais aussi le Mont Blanc, la plaine de Haute-Saône et le massif des Vosges. Nombreux sites naturels et patrimoniaux ponctueront votre balade.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt124/illustration_vtt124.jpg</photo>
+            <duree>2h45</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>23.4</longueur>
+            <denivele>520</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt124/GB-vtt-124.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt124/profil_vtt124.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.29719</departX>
+            <departY>6.05226</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt124/vtt124.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt124/plangeneralvtt124.pdf</carteGenerale>
+        </rando>
+        <rando id="60" type="VTT" dtInfo="2019-03-28">
+            <nom>Circuit VTT n°24</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Braillans</commune>
+            <communeAutre>Marchaux et Thise</communeAutre>
+            <departAutre>Marchaux : parcours sportif / Thise : église</departAutre>
+            <depart>Parking du restaurant</depart>
+            <arrivee>Parking du restaurant</arrivee>
+            <descriptif>Ce circuit comporte plusieurs montées et descentes assez techniques et délicates qui raviront les passionnés de VTT. Les plus audacieux pourront prendre de la vitesse dans certains plus ludiques.
+Tous les ingrédients pour une randonnée inoubliable !
+Ce circuit s&apos;adresse à des vététistes confirmés.
+Liaison possible avec les circuits VTT n°23, n°25 et ceux de la forêt de Chailluz (n°121, 122, 123 et 124).
+
+- Pour un départ de Marchaux, rajouter 4km - 15min et 60m de dénivelé (A/R)</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt24/illustration_vtt24.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>16.4</longueur>
+            <denivele>340</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt24/vtt24.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt24/vtt24_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.308953</departX>
+            <departY>6.094849</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt24/vtt24.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vtt24/plangeneralvtt24.pdf</carteGenerale>
+        </rando>
+        <rando id="29" type="VTT" dtInfo="2016-12-15">
+            <nom>Circuit VTT 113</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Morre</commune>
+            <communeAutre>Montfaucon</communeAutre>
+            <departAutre>Salle d&apos;accueil de Montfaucon (47.234854, 6.077561)</departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>Circuit relativement difficile avec de nombreuses côtes où, sauf pour les meilleurs d&apos;entre vous, il faudra parfois mettre pieds à terre. Vos efforts seront souvent récompensés par de nombreux points de vue et des découvertes patrimoniales, comme le château Médiéval et l&apos;Eglise de Montfaucon. Le parcours vous procurera de belles sensations lors de la descente rapide et technique qui vous plongera un instant dans la vallée du Doubs. Enfin le point de vue sur l&apos;agglomération bisontine, le Mont Poupet voire le Mont Blanc par temps clair, vous fera oublier tous vos efforts.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vtt113/illustration_vtt113.jpg</photo>
+            <duree>4h</duree>
+            <niveau couleur="noir">très difficile</niveau>
+            <longueur>25</longueur>
+            <denivele>720</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vtt113/vtt113.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vtt113/profil_vtt113.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/vtt113/vtt113.flv</video>
+            <lignesBus>Morre : ligne 82    Monffaucon : ligne 82</lignesBus>
+            <departX>6.064844</departX>
+            <departY>47.226618</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/vtt113/vtt113.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vtt113/vtt113.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="75" type="cyclo" dtInfo="2018-09-25">
+            <nom>BOUCLE 1    &quot;La boucle de Besançon&quot;</nom>
+            <thematique>Urbain</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Ce circuit, facile à réaliser en famille, emprunte les berges le long de la boucle du Doubs qui encercle le centre historique de la cité. Au fil de votre parcours, découvrez ce qui fait la spécificité de Besançon, un patrimoine bâti d&apos;une immense richesse au sein d&apos;un cadre naturel d&apos;exception. L&apos;itinéraire est très facile en parcourant les berges, il devient difficile pour accéder aux belvédères (options) : environ 3 km et 160 m de dénivelé positif supplémentaires pour accéder à chaque belvédère.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/1/photo_b1.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>6</longueur>
+            <denivele>30</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/1/boucle1.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/1/b1profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/1/b1cyclo.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/1/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="76" type="cyclo" dtInfo="2018-09-25">
+            <nom>BOUCLE 2   &quot;berges et belvédères&quot;</nom>
+            <thematique>Urbain</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Cette balade paisible longe les deux berges du Doubs en amont et en aval du coeur de ville de Besançon.
+Elle donne un bel aperçu des paysages typiques de la Vallée du Doubs, ponctuée notamment par ses nombreuses collines.
+L&apos;itinéraire est très facile en parcourant les berges, il devient difficile pour accéder aux belvédères (options) : environ 3 km et 160 m de dénivelé positif supplémentaires pour accéder à chaque belvédère.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/2/42330.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>13</longueur>
+            <denivele>70</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/2/boucle2.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/2/b2profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/2/b2cyclo.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/2/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="77" type="cyclo" dtInfo="2018-10-01">
+            <nom>BOUCLE 3   &quot;Les rives de l&apos;est bisontin&quot;</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Vous sortez très vite du centre-ville pour une balade champêtre et bucolique aux portes de Besançon. Sur le parcours, vue imprenable sur la Citadelle, puis sur le château médiéval et le belvédère de Montfaucon. Au point 8, vous êtes en toute proximité du camping de Besançon-Chalezeule et de la piscine de plein-air municipale voisine.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/3/photob3.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>15</longueur>
+            <denivele>80</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/3/boucle3_v2019.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/3/b3_2018_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/3/boucle3.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/3/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="78" type="cyclo" dtInfo="2018-10-02">
+            <nom>BOUCLE 4    &quot;Les rives de l&apos;est bisontin&quot;</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>Sur l&apos;Eurovélo 6</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Partez à la découverte de la vallée du Doubs en empruntant quelques tronçons de l&apos;Eurovélo 6.
+Ce circuit vous conduit jusqu&apos;au village de Vaire-Arcier où l&apos;eau est omniprésente à travers la rivière, les ruisseaux et les sources. Sur le chemin du retour, vous pédalez alternativement le long de la rivière et de son canal ponctué d&apos;écluses.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/4/78859.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>27.5</longueur>
+            <denivele>190</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/4/boucle4_v2019.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/4/b4_V2018_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/4/boucle4.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/4/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="79" type="cyclo" dtInfo="2018-10-02">
+            <nom>BOUCLE 5    &quot;Les rives de l&apos;ouest bisontin&quot;</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Cette boucle roulante et sinueuse longe le Doubs jusqu&apos;à Avanne-Aveney. Une balade très agréable au pied des collines verdoyantes. l&apos;itinéraire retour emprunte la rive opposée.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/5/cyclo5.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>21.5</longueur>
+            <denivele>120</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/5/boucle5.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/5/b5_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/5/b5.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/5/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="82" type="cyclo" dtInfo="2018-10-04">
+            <nom>BOUCLE 8   &quot;Du minéral et végétal&quot;</nom>
+            <thematique>Urbain</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Cet itinéraire débute au pied de la majestueuse Citadelle. Il traverse l&apos;est bisontin jusqu&apos;à la forêt de Chailluz, véritable poumon vert de Besançon. Passage dans différents quartiers de la ville : certains résidentiels à faible densité, d&apos;autres plus fortement
+urbanisés.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/8/photo_b8.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>15.5</longueur>
+            <denivele>160</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/8/boucle8.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/8/b8_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/8/b8.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/8/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="83" type="cyclo" dtInfo="2018-10-04">
+            <nom>BOUCLE 9    &quot;Du minéral au végétal&quot;</nom>
+            <thematique>Urbain</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Parcours dans un premier temps urbain puis plus axé nature. Il relie l’est bisontin au couvert forestier par pistes cyclables, petites routes et chemins carrossables. Arrivé en forêt de Chailluz, au détour des « Grandes baraques » possibilité de se rendre au parc animalier où le gros gibier se laisse apercevoir.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/9/photo_b9.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>18</longueur>
+            <denivele>220</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/9/boucle9.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/9/b9_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/9/b9.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/9/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="84" type="cyclo" dtInfo="2018-10-04">
+            <nom>BOUCLE 10  &quot;Du minéral au végétal&quot;</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Cette boucle quitte progressivement la cité bisontine en passant par des quartiers résidentiels à l’habitat diffus pour se rendre au plus profond de la forêt de Chailluz. Un environnement tranquille caractérisé par de vastes étendues et une ambiance naturelle, où l&apos;on rencontre ici ou là des arbres magnifiques.
+Le retour à Besançon se fait par d&apos;autres quartiers, plus densément peuplés et plus animés, notamment les jours de marché.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/10/photo_b10.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>28</longueur>
+            <denivele>340</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/10/boucle10.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/10/b10_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/10/b10.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/10/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="85" type="cyclo" dtInfo="2018-10-04">
+            <nom>BOUCLE 11   &quot;Forêts, prairies et vallons&quot;</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Quittez la ville et partez à la découverte des environs de la forêt de Chailluz, au pied du Fort de la Dame Blanche.
+Le parcours se poursuit en direction de Marchaux et sa mythique montée lors de la course de côte.
+Belle redescente en direction d&apos;Amagney, de la Vallée du Doubs et ses paysages bucoliques, avec vue imprenable sur les sommets environnants. Pour le retour, une jolie variante est envisageable par le village de Vaire-Arcier et ses sources. Retour majoritairement par voie cyclable.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/11/photo_b11.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>35</longueur>
+            <denivele>460</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/11/boucle11_V2019.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/11/b11_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/11/b11.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/11/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="86" type="cyclo" dtInfo="2018-10-05">
+            <nom>BOUCLE 12    &quot;Aux portes des montagnes du Jura&quot;</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Partez à la conquête du sommet de Montfaucon !
+Tout au long de votre ascension, ce parcours vous offre un panorama exceptionnel. Vos efforts seront récompensés en arrivant sur les hauteurs du village. Une vue grandiose vous y attend par temps clair, avec en toile de fond et selon l&apos;angle de vue choisi : le Mont Poupet, les sommets jurassiens, vosgiens et le Mont Blanc !
+Retour rapide en direction de la Vallée du Doubs jusqu&apos;à la Malate.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/12/photo_b12.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>18</longueur>
+            <denivele>440</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/12/boucle12.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/12/b12_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/12/b12.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/12/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="80" type="cyclo" dtInfo="2018-10-03">
+            <nom>BOUCLE 6    &quot;Entre rives et collines&quot;</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Ce beau parcours roulant à l&apos;aller et vallonné au retour traverse la campagne bisontine de village en village.
+De charmantes petites routes parfois sous couvert forestier vous conduisent au pied des collines, paysage typique de la Vallée du Doubs. Une balade champêtre en perspective !</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/6/photob6.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>33.5</longueur>
+            <denivele>270</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/6/boucle6.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/6/b6_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/2/boucle6.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/6/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="81" type="cyclo" dtInfo="2018-10-03">
+            <nom>BOUCLE 7  &quot;les rives de l&apos;ouest bisontin&quot;</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Ce circuit relativement long emprunte une partie de L&apos;Eurovélo 6, grand axe d&apos;itinérance entre Nantes et Budapest (Hongrie). Vous pourrez ainsi circuler en toute tranquillité sur les bords du Doubs. Un parcours idéal pour découvrir la diversité du
+paysage de la Vallée du Doubs. Cet itinéraire vous fera également découvrir plusieurs villages où châteaux, églises et maisons de caractère se côtoient. Cet itinéraire dessert la base d&apos;Osselle et les célèbres grottes d&apos;Osselle voisines situées sur la commune de Roset-Fluans.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/7/photo_b7.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>50</longueur>
+            <denivele>380</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/7/boucle7.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/7/b7_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/7/b7.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/7/categlobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="87" type="cyclo" dtInfo="2018-10-05">
+            <nom>BOUCLE 13  &quot;Entre monts et vaux&quot;</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>La Rodia</depart>
+            <arrivee>La Rodia</arrivee>
+            <descriptif>Ce parcours magnifique, à proximité de Besançon est réservé aux cyclistes expérimentés !
+Une belle grimpette vous attend jusqu&apos;au point culminant de Montfaucon, niché à 600m d&apos;altitude où un exceptionnel panorama s&apos;offre à vous par temps clair. Puis, par de belles petites routes sinueuses et vallonnées, vous traversez des paysages ruraux typiques des plateaux du Jura où l&apos;activité agricole prédomine. Possibilité de se rendre à la fruitière à Comté de Fontain, la plus proche de Besançon !</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/13/photo_b13.jpg</photo>
+            <duree>ALEATOIRE</duree>
+            <niveau couleur="noir">très difficile</niveau>
+            <longueur>40</longueur>
+            <denivele>900</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/13/boucle13.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/13/b13_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>12</lignesBus>
+            <departX>47.23204</departX>
+            <departY>6.03795</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/13/b13.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/boucle_cyclo/13/carteglobalecyclo.pdf</carteGenerale>
+        </rando>
+        <rando id="56" type="pédestre" dtInfo="2018-05-16">
+            <nom>La Fontaine des Acacias</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Parcours sans difficulté entre les parcelles de résineux. Découverte d’un des deux seuls points d’eau de la forêt creusé à flanc de doline.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/la-fontaine-des-acacias.jpg</photo>
+            <duree>1h30</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>5.7</longueur>
+            <denivele>125</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/sentierschailluz.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/la-fontaine-des-acacias.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.0499</departX>
+            <departY>47.29784</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/la-fontaine-des-acacias.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/la-fontaine-des-acacias.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="52" type="pédestre" dtInfo="2018-05-16">
+            <nom>Les Fonds de Chailluz</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Le chemin des Plaines nous conduit à la limite entre forêt et prairie. Un ancien mur de pierre marque la limite historique du massif de Chailluz. Retour par le sentier Saint-Nicolas.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/les-fonds-de-chailluz.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>7.4</longueur>
+            <denivele>185</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/sentierschailluz.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/les-fonds-de-chailluz.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.04967</departX>
+            <departY>47.29804</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/les-fonds-de-chailluz.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/les-fonds-de-chailluz.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="90" type="pédestre" dtInfo="2021-10-06">
+            <nom>Sentier de Palise</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée de l&apos;Ognon</secteur>
+            <commune>Palise</commune>
+            <communeAutre>Venise</communeAutre>
+            <departAutre>Chemin Vert (Commune de Venise)</departAutre>
+            <depart>Mairie</depart>
+            <arrivee>Mairie</arrivee>
+            <descriptif>La quiétude des lieux vous fera oublier le temps lors de cette boucle mêlant sentier forestier, voie verte et berges de rivière : l’Ognon. Le long du parcours, vous découvrirez un chêne président, le chemin vert (ancienne voie ferrée réhabilitée), vous rendre au magasin de la ferme laitière en agriculture biologique et pourquoi pas, repartir avec quelques délicieux yaourts.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/palise/lavoir.jpg</photo>
+            <duree>1h20 à 1h45</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>5.9</longueur>
+            <denivele>70</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/palise/trace.pdf</pdf>
+            <photoProfil></photoProfil>
+            <video></video>
+            <lignesBus>D205</lignesBus>
+            <departX>47.36902</departX>
+            <departY>6.09518</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/palise/palise.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/palise/carte.pdf</carteGenerale>
+        </rando>
+        <rando id="2" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier des Richets</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Boussières</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Église</depart>
+            <arrivee></arrivee>
+            <descriptif>Petite boucle agréable sans difficulté majeure pour toute la famille sur les hauteurs des papeteries de Boussières        </descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/richets/illustration_richets.jpg</photo>
+            <duree>1h</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>3</longueur>
+            <denivele>70</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/richets/richets.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/richets/profil_richets.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Boussières : ligne 54</lignesBus>
+            <departX>5.901884</departX>
+            <departY>47.15736</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/richets/richets.kml</kml>
+            <gpx></gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="70" type="pédestre" dtInfo="2018-07-13">
+            <nom>Sentier des Sources 2</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Vaire</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking de la salle communale</depart>
+            <arrivee>Parking de la salle communale</arrivee>
+            <descriptif>Ce circuit agréable vous conduira à travers les paysages bucoliques de la Vallée du Doubs. à mi-parcours, dirigez-vous vers la Source Chaney : le ruisseau est une résurgence du marais de Saône. Il provient de la même source que l’eau d’Arcier, qui alimente Besançon en eau potable.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources2/vaire-arcier.jpg</photo>
+            <duree>1H45</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>6</longueur>
+            <denivele>120</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources2/vaire_sources2.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources2/vaire_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.27116</departX>
+            <departY>6.122269</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/randosources2.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources2/vaire.pdf</carteGenerale>
+        </rando>
+        <rando id="88" type="pédestre" dtInfo="2019-03-21">
+            <nom>Sentier des Sources d&apos;Arcier</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Vaire</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking - Arcier</depart>
+            <arrivee>Parking - Arcier</arrivee>
+            <descriptif>Parcours très facile qui valorise les richesses exceptionnelles du site d&apos;Arcier (sources et aqueduc)</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vaire/sentiersourcesarcier/sourcesarcier.jpg</photo>
+            <duree>30min</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>1.5</longueur>
+            <denivele>60</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vaire/sentiersourcesarcier/sentierdessourcesdarcier.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vaire/sentiersourcesarcier/vaire_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.27116</departX>
+            <departY>6.122269</departY>
+            <kml></kml>
+            <gpx></gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vaire/sentiersourcesarcier/arcier.pdf</carteGenerale>
+        </rando>
+        <rando id="19" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier du Bois de la Fougère</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Mamirolle</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Pharmacie</depart>
+            <arrivee></arrivee>
+            <descriptif>Facilement accessible à petits et grands, ce sentier permet d¿observer des paysages agricoles typiques des premiers plateaux jurassiens. Au départ du village de Mamirolle, traversez aussi le Bois de la Fougère et apercevez le village du Gratteris. Avec un dénivelé très faible, ce sentier se prête facilement aux sorties familiales.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fougere/illustration_fougere.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>7.9</longueur>
+            <denivele>60</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fougere/fougere.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fougere/profil_fougere.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/fougere/fougere.flv</video>
+            <lignesBus>Mamirolle : ligne 82 puis 92</lignesBus>
+            <departX>6.160374</departX>
+            <departY>47.196987</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fougere/boisdelafougere.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fougere/fougere.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="17" type="pédestre" dtInfo="2021-10-11">
+            <nom>Sentier du Chêne Président</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Nancray</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Entrée du musée</depart>
+            <arrivee></arrivee>
+            <descriptif>.Entre le musée de plein air des Maisons comtoises et la forêt de Bouclans, le sentier du chêne président offre une balade facilement accessible à tous. Au milieu de paysages boisés, vous pourrez observer 16 bornes qui jalonnement l’itinéraire. Ces bornes séparaient les communes de Nancray et Bouclans d’une part et démarquaient des parcelles forestières d’autres part.
+A la fin de votre parcours, vous ferez face au chêne Président, noble seigneur du secteur. Possibilité de se restaurer au restaurant du musée.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chenepresident/photo.jpg</photo>
+            <duree>1h30 à 2h00</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>7.1</longueur>
+            <denivele>50</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chenepresident/trace.pdf</pdf>
+            <photoProfil></photoProfil>
+            <video></video>
+            <lignesBus>Nancray : ligne 81</lignesBus>
+            <departX>6.185062</departX>
+            <departY>47.239561</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chenepresident/chenepresident.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chenepresident/president.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="65" type="pédestre" dtInfo="2018-09-25">
+            <nom>Sentier du Patrimoine</nom>
+            <thematique>Parcours sonore / en famille</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs Amont</secteur>
+            <commune>Deluz</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking de la halte fluviale</depart>
+            <arrivee>Parking de la halte fluviale</arrivee>
+            <descriptif></descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/deluz_patrimoine/deluz_patrimoine.jpg</photo>
+            <duree>1h30</duree>
+            <niveau couleur="vert">facile</niveau>
+            <longueur>3.5</longueur>
+            <denivele>100</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/deluz_patrimoine/deluz_patrimoine_bd.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/deluz_patrimoine/deluz_patrimoine_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Deluz : ligne 74</lignesBus>
+            <departX>47.29124</departX>
+            <departY>6.20277</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/deluz_patrimoine/patrimoine.gpx</gpx>
+            <mp3>https://datasets.grandbesancon.fr/fichiers/rando/deluz_patrimoine/deluz_balades-sonores.zip</mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/deluz_patrimoine/départ_deluz.pdf</carteGenerale>
+        </rando>
+        <rando id="11" type="pédestre" dtInfo="2016-10-11">
+            <nom>Boucle de Nacra</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Montfaucon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Salle d&apos;accueil</depart>
+            <arrivee></arrivee>
+            <descriptif>Petite boucle, parfois escarpée et sous couvert végétal.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/nacra/illustration_nacra.jpg</photo>
+            <duree>1h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>3.1</longueur>
+            <denivele>150</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/nacra/nacra.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/nacra/profil_nacra.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/nacra/nacra.flv</video>
+            <lignesBus>Montfaucon : ligne 82</lignesBus>
+            <departX>6.077645</departX>
+            <departY>47.234863</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/nacra/nacra.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/nacra/nacra.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="38" type="pédestre" dtInfo="2016-10-07">
+            <nom>Circuit de la Chapelle des Buis</nom>
+            <thematique>Sur la Via Francigena (GR145) - (Canterbury / Rome)</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Monument de la libération</depart>
+            <arrivee></arrivee>
+            <descriptif>Difficulté faible, dans la campagne bisontine : une traversée du milieu bocager et de la forêt de la Chapelle des Buis, de nombreux points de vue et les vestiges d&amp;#8217;anciennes voies médiévales à ornières.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chapelle_des_buis/chapelle_des_buis.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>6.3</longueur>
+            <denivele>250</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chapelle_des_buis/chapelle_des_buis.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chapelle_des_buis/profil_chapelle_des_buis.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.05108</departX>
+            <departY>47.219747</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chapelle_des_buis/chapelle_des_buis.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chapelle_des_buis/chapelle_des_buis.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="50" type="pédestre" dtInfo="2018-05-02">
+            <nom>Circuit des coteaux de Rosemont</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Difficulté moyenne pour un circuit nature : 150 m de dénivelé pour découvrir un paysage rural, façonné par la culture des vignes et des vergers au cours des siècles.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/rosemont/rosemont.jpg</photo>
+            <duree>1h15</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>4.2</longueur>
+            <denivele>150</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/rosemont/rosemont.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/rosemont/profil_rosemont.jpg</photoProfil>
+            <video></video>
+            <lignesBus>tram 1,2
+bus 21</lignesBus>
+            <departX>5.99261</departX>
+            <departY>47.21941</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/rosemont/rosemont.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/rosemont/rosemont.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="37" type="pédestre" dtInfo="2016-10-06">
+            <nom>Circuit du Fort de Bregille</nom>
+            <thematique>Point de vue sur la ville</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Bregille village</depart>
+            <arrivee></arrivee>
+            <descriptif>Difficulté moyenne, entre forêt et coteau ensoleillé : un chemin rural entre &amp;#8220;Bregille village&amp;#8221; et les &amp;#8220;Prés de Vaux&amp;#8221;, une ascension de 150 m sur le chemin des Échenoz de St Paul, un cheminement plat dans la forêt de chênes et de buis des monts de Bregille avant de rejoindre la ville par le Grand Désert.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_bregille/circuit_fort_de_bregille.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>6.4</longueur>
+            <denivele>320</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_bregille/sentiersbregille.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_bregille/profil_fort_de_bregille.png</photoProfil>
+            <video></video>
+            <lignesBus>ligne 5,21</lignesBus>
+            <departX>6.03659</departX>
+            <departY>47.23838</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_bregille/circuitdufortdebregille.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_bregille/circuitdufortdebregille.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="43" type="pédestre" dtInfo="2016-10-19">
+            <nom>Circuit du Fort de Chaudanne</nom>
+            <thematique>Point de vue sur la ville</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Un cheminement plat au bord du Doubs, une ascension de 150 m pour arriver au fort, une traversée de pelouse calcaire et de sous-bois</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_chaudanne/fort_de_chaudanne.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>5.6</longueur>
+            <denivele>210</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_chaudanne/fort_de_chaudanne.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_chaudanne/profil_fort_de_chaudanne.png</photoProfil>
+            <video></video>
+            <lignesBus>ligne 21</lignesBus>
+            <departX>6.02009</departX>
+            <departY>47.21924</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_chaudanne/fort_de_chaudanne.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fort_de_chaudanne/fort_de_chaudanne.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="53" type="pédestre" dtInfo="2018-09-25">
+            <nom>La Dame Blanche</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Une ascension de 270 m pour découvrir devant le fort un magnifique point de vue sur la vallée de l’Ognon. Retour par les Petites Baraques.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8.1</longueur>
+            <denivele>355</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/sentierschailluz.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.0499</departX>
+            <departY>47.29784</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="54" type="pédestre" dtInfo="2018-05-16">
+            <nom>Le Cul des Prés</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Cet itinéraire passe au pied de la Fontaine Sainte-Agathe et nous conduit sans difficulté au parcours sportif du Cul des Prés. Retour par le Chemin des Plaines.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-cul-des-pres.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8.5</longueur>
+            <denivele>237</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/sentierschailluz.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-cul-des-pres.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.0499</departX>
+            <departY>47.29784</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-cul-des-pres.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-cul-des-pres.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="57" type="pédestre" dtInfo="2018-05-16">
+            <nom>Le Vieux Tilleul</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Le sentier Saint-Nicolas nous conduit sur terrain plat aux “Fonds de Chailluz”. On longe ensuite les terres agricoles avant de gravir un dénivelé de 50 m pour découvrir le plus vieil arbre de la forêt. Retour par les Petites Baraques.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-vieux-tilleul.jpg</photo>
+            <duree>3h15</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>12.3</longueur>
+            <denivele>340</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/sentierschailluz.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-vieux-tilleul.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.0499</departX>
+            <departY>47.29784</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-vieux-tilleul.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/le-vieux-tilleul.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="5" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier de Béthanie-la-marne</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Grandfontaine</commune>
+            <communeAutre>Montferrand-le-Château</communeAutre>
+            <departAutre>Aire de jeux de Montferrand-le-château (47.177896, 5.909703)</departAutre>
+            <depart>Ancien stade de foot de Grandfontaine</depart>
+            <arrivee></arrivee>
+            <descriptif>Jolie balade familiale qui traverse les espaces ruraux aux portes de Besançon, entre sous-bois et paysages ouverts.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/bethanielamarne/illustration_bethanielamarne.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8.4</longueur>
+            <denivele>135</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/bethanielamarne/bethanielamarne.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/bethanielamarne/profil_bethanielamarne.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Grandfontaine : ligne 55 ou 56    Montferrand-le-château : ligne 53 ou 54</lignesBus>
+            <departX>5.905436</departX>
+            <departY>47.198665</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/bethanielamarne/bethanielamarne.kml</kml>
+            <gpx></gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="6" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier de Notre Dame du Mont</nom>
+            <thematique>Parcours sonore / en famille</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Thoraise</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>Boucle pour marcheurs confirmés, combinant montée raide et descente technique, où panorama, curiosités et bâtis patrimoniaux vous feront oublier vos efforts.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/notredamedumont/illustration_thoraise_nddumont.jpg</photo>
+            <duree>2h00</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>5.3</longueur>
+            <denivele>170</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/notredamedumont/notredamedumont.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/notredamedumont/profil_thoraise_nddumont.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Thoraise : ligne 54</lignesBus>
+            <departX>5.902392</departX>
+            <departY>47.17437</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/notredamedumont/notredamedumont.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/notredamedumont/notredamedumont.gpx</gpx>
+            <mp3>https://datasets.grandbesancon.fr/fichiers/rando/notredamedumont/baladesSonoresNotreDameDuMont.zip</mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="3" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier de la Fontaine des Baroques</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Osselle-Routelle</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Église de Routelle</depart>
+            <arrivee></arrivee>
+            <descriptif>Parcours alternant sous-bois et prairies, avec quelques curiosités cachées,  proche du Village de Routelle</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fontainedesbaroques/illustration_fontainebaroques.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>6.6</longueur>
+            <denivele>170</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fontainedesbaroques/fontainedesbaroques.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fontainedesbaroques/profil_fontainebaroques.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Osselle-Routelle : ligne 56</lignesBus>
+            <departX>5.850214</departX>
+            <departY>47.166938</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fontainedesbaroques/fontainedesbaroques.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fontainedesbaroques/fontainedesbaroques.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="24" type="pédestre" dtInfo="2017-04-06">
+            <nom>Sentier de la Pierre de Vorges</nom>
+            <thematique>Rivière</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Busy</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>Passez entre l&apos;église et la mairie et rejoignez le stade de foot. Longez le et continuez tout droit.
+Tournez à droite chemin de la criante puis encore à droite à la fin de ce chemin.
+Après une petite montée qui vous emmène dans le bois de Gevrey, prenez en épingle le premier sentier à gauche et continuez sur
+environ 700 m.
+Au stop, prenez à droite en vous dirigeant vers le bois de Buis puis bifurquez à droite vers le sentier qui vous mène au bord du Doubs.
+Arrivés au bord du Doubs, empruntez la véloroute sur la droite et profitez de cette partie plate pour observer les paysages typiques de la vallée du Doubs et les ruines du château de Montferrand sur la gauche.
+Bifurquez sur la première route à droite montant au lieu-dit du Moulinot puis arrivant à Busy.
+De retour sur la rue principale, tournez à droite pour rejoindre la mairie du Busy et le point de départ.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/pierre/illustration_pierredevorges.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>7.5</longueur>
+            <denivele>160</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/pierre/pierre.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/pierre/profil_pierredevorges.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/pierre/pierre.flv</video>
+            <lignesBus>Busy : ligne 51</lignesBus>
+            <departX>5.94695</departX>
+            <departY>47.166236</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/pierre/pierredevorges.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/pierre/pierre.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="25" type="pédestre" dtInfo="2017-04-06">
+            <nom>Sentier des Crêtes</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Vorges-Les-Pins</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>En sortant du parking de la mairie, prenez à gauche en direction de l¿église.
+Arrivés à l¿église, bifurquez à gauche de manière à longer le cimetière avant de prendre le premier sentier sur la droite.
+Après une petite montée sur un sentier boisé, vous arrivez sur un sentier de crête. Vous pouvez apercevoir le long de cette partie le village de Vorges-les-Pins en contrebas sur votre gauche ainsi que les ruines du château de Montferrand.
+Profitez du point de vue aménagé à cet effet pour admirer la vue ! Après quelques centaines de mètres et un petit détour, plusieurs promontoires dans une prairie permettent d¿observer l¿autre côté de cette crête (massif du Jura, mont de lune, etc.).
+Au bout du chemin, bifurquez à gauche pour emprunter un sentier qui vous emmenera jusqu¿au village après la traversée d¿une route (à droite puis à gauche à ce moment là).
+Une fois sur la rue principale, tournez à gauche pour rejoindre le point de départ¿ et d¿arrivée.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/cretes/illustration_cretes.jpg</photo>
+            <duree>1h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>4.2</longueur>
+            <denivele>150</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/cretes/cretes.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/cretes/profil_cretes.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/cretes/cretes.flv</video>
+            <lignesBus>Vorges-les-pins : ligne 51</lignesBus>
+            <departX>5.928253</departX>
+            <departY>47.157716</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/cretes/cretes.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/cretes/cretes.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="20" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier des Essarts</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Saône</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking médiathèque</depart>
+            <arrivee></arrivee>
+            <descriptif>Au départ du village de Saône, le chemin des Essarts vous conduira vers différents paysages. Avec peu de dénivelé positif, ce sentier est l¿idéal pour allier activité physique et balade conviviale et agréable.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/essarts/illustration_essarts.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>6.9</longueur>
+            <denivele>110</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/essarts/essarts.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/essarts/profil_essarts.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/essarts/essarts.flv</video>
+            <lignesBus>Saône : ligne 83</lignesBus>
+            <departX>6.117934</departX>
+            <departY>47.224524</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/essarts/essarts.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/essarts/essarts.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="9" type="pédestre" dtInfo="2016-12-15">
+            <nom>Sentier des Falaises et du château</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Montfaucon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Salle d&apos;accueil</depart>
+            <arrivee></arrivee>
+            <descriptif>Parcours agréable chargé d&apos;histoire. Du haut des falaises, le fort et le château se font face.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/falaisesetchateau/illustration_falaisesetchateau.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>4.3</longueur>
+            <denivele>230</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/falaisesetchateau/falaisesetchateau.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/falaisesetchateau/profil_falaisesetchateau.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/falaisesetchateau/falaisesetchateau.flv</video>
+            <lignesBus>Montfaucon : ligne 82</lignesBus>
+            <departX>6.077645</departX>
+            <departY>47.234863</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/falaisesetchateau/falaisesetduchateau.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/falaisesetchateau/falaisesetchateau.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="69" type="pédestre" dtInfo="2018-07-13">
+            <nom>Sentier des Sources 1</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Vaire</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking de la salle communale</depart>
+            <arrivee>Parking de la salle communale</arrivee>
+            <descriptif>Ce sentier vous mènera à travers des paysages bucoliques de la Vallée du Doubs. Sur le chemin, l&apos;eau est omiprésente : ruisseau, perte, source, zone humide... vous pourrez rencontrer des espèces protégées, notamment le triton alpestre et le sonneur à ventre jaune.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources1/vaire-arcier.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>7.5</longueur>
+            <denivele>290</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources1/vaire_sources1.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources1/vaire_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>47.2825</departX>
+            <departY>6.15335</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources1/sources1.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/vaire/circuitsources1/vaire.pdf</carteGenerale>
+        </rando>
+        <rando id="64" type="pédestre" dtInfo="2018-09-25">
+            <nom>Sentier du Château Loriot</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Deluz</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking de la halte fluviale</depart>
+            <arrivee>Parking de la halte fluviale</arrivee>
+            <descriptif>Ce sentier aux paysages variés vous emmènera au pied de la chapelle de Montoille. Puis vous passerez à proximité des falaises et des rochers du Château Loriot, territoire fréquenté par les chamois. Une longue descente vous emmènera ensuite sur les prairies sèches et protégées du Dafoy où faune et flore locales s’épanouissent. Vous pourrez profiter des paysages plongeant sur Deluz et ses environs.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/deluz_chateauloriot/deluz.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>4.2</longueur>
+            <denivele>240</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/deluz_chateauloriot/deluz_bd.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/deluz_chateauloriot/chateauloriot_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Deluz : ligne 74</lignesBus>
+            <departX>47.29124</departX>
+            <departY>6.20277</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/deluz_chateauloriot/chateauloriot.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/deluz_chateauloriot/départ_deluz.pdf</carteGenerale>
+        </rando>
+        <rando id="66" type="pédestre" dtInfo="2018-09-25">
+            <nom>Sentier du Coutelot</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Thise</commune>
+            <communeAutre>Braillans</communeAutre>
+            <departAutre></departAutre>
+            <depart>Église de Thise</depart>
+            <arrivee>Eglise de Thise</arrivee>
+            <descriptif>Vous parcourez des chemins forestiers, notamment au milieu des hêtraies-sapinière. Vous passerez à proximité du village de Braillans, d&apos;où le départ est d&apos;ailleurs possible, avant de rejoindre le village de Thise et son église au clocher typique de la région.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/thise/thise.jpg</photo>
+            <duree>2h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>9</longueur>
+            <denivele>240</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/thise/thise_bd.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/thise/thise_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Thise : ligne 72</lignesBus>
+            <departX>47.28462</departX>
+            <departY>6.09376</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/thise/thise.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/thise/départ_thise.pdf</carteGenerale>
+        </rando>
+        <rando id="16" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier du Fonteny</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Nancray</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Entrée du musée</depart>
+            <arrivee></arrivee>
+            <descriptif>Après avoir traversé le village de Nancray, dans lequel se trouve le musée de plein air des Maisons Comtoises, randonnez à travers le Bois de Faule.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fonteny/illustration_fonteny.jpg</photo>
+            <duree>1h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>7.5</longueur>
+            <denivele>55</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fonteny/fonteny.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fonteny/profil_fonteny.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/fonteny/fonteny.flv</video>
+            <lignesBus>Nancray : ligne 81</lignesBus>
+            <departX>6.185062</departX>
+            <departY>47.239561</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fonteny/fonteny.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fonteny/fonteny.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="18" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier du Golf</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>La Chevillotte</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>Avec un dénivelé de 85 mètres et une distance 8,6km, ce sentier vous fera passer à travers plusieurs forêts boisées et vous pourrez traverser les villages de la Chevillotte et de Mamirolle. Pendant une partie du parcours, le sentier longe un terrain de golf.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/golf/illustration_golf.jpg</photo>
+            <duree>2h15</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8.6</longueur>
+            <denivele>85</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/golf/golf.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/golf/profil_golf.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/golf/golf.flv</video>
+            <lignesBus>La chevillotte : ligne 82 puis 92 puis 93</lignesBus>
+            <departX>6.165431</departX>
+            <departY>47.219445</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/golf/golf.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/golf/golf.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="15" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier du Moulin</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Nancray</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Entrée du musée</depart>
+            <arrivee></arrivee>
+            <descriptif>Au départ du village de Nancray, où se trouve le musée de plein air des Maisons Comtoises, partez à la découverte du hameau du Moulin et de paysages boisés en traversant le Bois de Faule notamment. Attention toutefois à une montée à dénivelé important (100 mètres).</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/moulin/illustration_moulin.jpg</photo>
+            <duree>2h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>9.7</longueur>
+            <denivele>170</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/moulin/moulin.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/moulin/profil_moulin.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/moulin/moulin.flv</video>
+            <lignesBus>Nancray : ligne 81</lignesBus>
+            <departX>6.185062</departX>
+            <departY>47.239561</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/moulin/moulin.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/moulin/moulin.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="4" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier du Ruisseau</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Boussières</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Église</depart>
+            <arrivee></arrivee>
+            <descriptif>Itinéraire adapté à toute la famille, ce sentier sera ludique par la traversée d&apos;un ruisseau et peut-être physique combiné au parcours santé.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/ruisseau/illustration_ruisseau.jpg</photo>
+            <duree>3h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>9.2</longueur>
+            <denivele>270</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/ruisseau/ruisseau.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/ruisseau/profil_ruisseau.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Boussières : ligne 54</lignesBus>
+            <departX>5.901884</departX>
+            <departY>47.15736</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/ruisseau/ruisseau.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/ruisseau/ruisseau.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="14" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier du Tour des Landes</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Gennes</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Salle polyvalente</depart>
+            <arrivee></arrivee>
+            <descriptif>Circuit familial qui chemine dans les bois et sur les petites routes.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/landes/illustration_landes.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>7.4</longueur>
+            <denivele>180</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/landes/landes.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/landes/profil_landes.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/landes/landes.flv</video>
+            <lignesBus>Gennes : ligne 81</lignesBus>
+            <departX>6.123795</departX>
+            <departY>47.241244</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/landes/tourdeslandes.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/landes/landes.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="23" type="pédestre" dtInfo="2021-08-31">
+            <nom>Sentier découverte de Larnod</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Larnod</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Stade municipal</depart>
+            <arrivee></arrivee>
+            <descriptif>Ce parcours vous invite à une escapade qui alliera lieu de mémoire, lieu insolite et panorama exceptionnel. Il racontera les différentes facettes naturelles du site et les interventions passées de l’homme. Cet itinéraire est la visite incontournable du territoire.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/circuitdelarnod/circuitdelarnod.jpg</photo>
+            <duree>1h30 à 1h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>7</longueur>
+            <denivele>240</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/circuitdelarnod/circuitdelarnod.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/circuitdelarnod/profil_circuitdelarnod.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/circuitdelarnod/videolarnod.flv</video>
+            <lignesBus>Ligne 51</lignesBus>
+            <departX>5.969794</departX>
+            <departY>47.188769</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/circuitdelarnod/decouvertedelarnod.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/circuitdelarnod/larnod.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="91" type="pédestre" dtInfo="2021-10-11">
+            <nom>Sentier les Hauts de Divicius</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée de l&apos;Ognon</secteur>
+            <commune>Devecey</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Mairie</depart>
+            <arrivee>Mairie</arrivee>
+            <descriptif>Ce sentier vous propose un bel itinéraire à la découverte du patrimoine bâti communal, de la faune et de la flore locale préservée, inscrit dans le périmètre de la réserve biologique intégrale de la Dame Blanche, massif forestier dominant le village de Devecey. Il offre de très beaux points de vue sur les paysages bucoliques de la vallée de l’Ognon.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/devecey/photo.jpg</photo>
+            <duree>2h15 à 2h45</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>7.8</longueur>
+            <denivele>250</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/devecey/trace.pdf</pdf>
+            <photoProfil></photoProfil>
+            <video></video>
+            <lignesBus>81 et 82</lignesBus>
+            <departX>47.32472</departX>
+            <departY>6.01555</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/devecey/divicius.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/devecey/carte.pdf</carteGenerale>
+        </rando>
+        <rando id="7" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier sur les Roches</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Osselle-Routelle</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Base de loisirs d&apos;Osselle</depart>
+            <arrivee></arrivee>
+            <descriptif>Parcours au départ du plan d&apos;eau, qui allie chemin et sentier agréables à montée sèche et descente pentue en sous-bois.  Vous terminerez votre balade en longeant le canal.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/roches/illustration_roches.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="bleu">moyenne</niveau>
+            <longueur>8.4</longueur>
+            <denivele>170</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/roches/roches.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/roches/profil_roches.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Osselle-Routelle : ligne 56</lignesBus>
+            <departX>5.85212</departX>
+            <departY>47.139118</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/roches/surlesroches.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/roches/roches.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="51" type="pédestre" dtInfo="2018-05-02">
+            <nom>Circuit de Planoise</nom>
+            <thematique>Montagne</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Besançon</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>Un parcours assez sportif d&apos;un dénivelé de 250 m pour découvrir sur le versant sud de la colline les nombreuses traces d&apos;anciennes cultures en terrasse. Au nord, un cheminement forestier permet la liaison avec le parc urbain.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/planoise/planoise.jpg</photo>
+            <duree>2h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>5.7</longueur>
+            <denivele>250</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/planoise/planoise.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/planoise/profil_planoise.jpg</photoProfil>
+            <video></video>
+            <lignesBus>6</lignesBus>
+            <departX>5.98646</departX>
+            <departY>47.21611</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/planoise/planoise.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/planoise/planoise.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="63" type="pédestre" dtInfo="2018-09-25">
+            <nom>Circuit des Trois Portes</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Chalèze</commune>
+            <communeAutre>Arcier</communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking Les Hauts de Chalèze / Côte de Joux</depart>
+            <arrivee>Parking Les Hauts de Chalèze / Côte de Joux</arrivee>
+            <descriptif>Circuit longeant les limites communales entre les villages de Chalèze, Montfaucon et Gennes.
+Vous arriverez au Fort des Epesses, bâtiment militaire construit en 1883, dont le but était de faire obstacle au passage de l’ennemi d’où qu’il vienne, et de l’empêcher de bombarder la place centrale en maintenant celle-ci hors de portée des canons. Par beau temps, vous pourrez profiter d’un point de vue sur les massifs du Jura et du Mont-Blanc.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chaleze/chaleze.jpg</photo>
+            <duree>2h45</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>8.5</longueur>
+            <denivele>270</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chaleze/chaleze_bd.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chaleze/chaleze_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Chalèze : ligne 75 destination Vaire</lignesBus>
+            <departX>47.26152</departX>
+            <departY>6.09423</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chaleze/chaleze.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/chaleze/départ_Grand_Besançon_chaleze.pdf</carteGenerale>
+        </rando>
+        <rando id="55" type="pédestre" dtInfo="2018-05-16">
+            <nom>Dame Blanche et Vieux Tilleul</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Chailluz</secteur>
+            <commune>Besançon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart></depart>
+            <arrivee></arrivee>
+            <descriptif>C’est la grande boucle de Chailluz qui nous fait monter sur “la côte” (270 m de dénivelé) pour passer de l’ancien Fort de Chailluz au Vieux Tilleul en suivant la crête sur toute sa longueur</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche-et-vieux-tilleul.jpg</photo>
+            <duree>3h30</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>14</longueur>
+            <denivele>517</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/sentierschailluz.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche-et-vieux-tilleul.png</photoProfil>
+            <video></video>
+            <lignesBus></lignesBus>
+            <departX>6.0499</departX>
+            <departY>47.29784</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche-et-vieux-tilleul.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/chailluz/dame-blanche-et-vieux-tilleul.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="21" type="pédestre" dtInfo="2017-06-26">
+            <nom>Grande Boucle de Fontain</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Fontain</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Église</depart>
+            <arrivee></arrivee>
+            <descriptif>Le long de cette grande boucle, randonnez à travers des paysages boisés et agricoles. Découvrez sur votre passage certains monuments comme le fort de Fontain, Notre-Dame de la Libération ou bien encore la Chapelle des Buis. Une grande montée vous attendra pour terminer le parcours.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fontain/illustration_bouclefontain.jpg</photo>
+            <duree>3h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>9.5</longueur>
+            <denivele>290</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fontain/fontain.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fontain/profil_fontain.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/fontain/fontain.flv</video>
+            <lignesBus>Fontain : ligne 84</lignesBus>
+            <departX>6.024686</departX>
+            <departY>47.201379</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fontain/grandeboucledefontain.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fontain/fontain.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="62" type="pédestre" dtInfo="2018-09-25">
+            <nom>Sentier d&apos;Amagney</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Vallée du Doubs</secteur>
+            <commune>Amagney</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Parking mairie / terrain de foot</depart>
+            <arrivee>Parking mairie / terrain de foot</arrivee>
+            <descriptif>Ce sentier, majoritairement sous couvert forestier, où chênes et hêtres centenaires se côtoient, vous offre des points de vue éphémères.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/amagney/amagney.jpg</photo>
+            <duree>2h45</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>9.2</longueur>
+            <denivele>250</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/amagney/amagney_bd.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/amagney/amagney_profil.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Amagney : ligne 73</lignesBus>
+            <departX>47.30403</departX>
+            <departY>6.15074</departY>
+            <kml></kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/amagney/amagney.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale>https://datasets.grandbesancon.fr/fichiers/rando/amagney/panneaux départ_Grand_Besançon_-_Amagney.pdf</carteGenerale>
+        </rando>
+        <rando id="1" type="pédestre" dtInfo="2017-03-08">
+            <nom>Sentier de Crête et Bois Rapin</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Vallée du Doubs Aval</secteur>
+            <commune>Montferrand-le-Château</commune>
+            <communeAutre>Rancenay</communeAutre>
+            <departAutre>Mairie de Rancenay (47.186913, 5.949295)</departAutre>
+            <depart>Aire de jeux de Montferrand-le-château</depart>
+            <arrivee></arrivee>
+            <descriptif>Sentier à la fois escarpé et sous couvert forestier, qui offre plusieurs panoramas et vous permettra d&apos;accéder au bord du Doubs.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/creteetboisrapin/illustration_creteboisrapin.jpg</photo>
+            <duree>3h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>9.3</longueur>
+            <denivele>320</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/creteetboisrapin/crete_boisrapin.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/creteetboisrapin/profil_creteboisrapin.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Rancenay : ligne 52 Montferrand-le-château : ligne 53</lignesBus>
+            <departX>5.909703</departX>
+            <departY>47.177896</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/creteetboisrapin/creteetboisrapin.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/creteetboisrapin/creteetboisrapin.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="12" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier des Buis</nom>
+            <thematique>Sur la Via Francigena (GR145) - (Canterbury / Rome)</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Morre</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Mairie</depart>
+            <arrivee></arrivee>
+            <descriptif>Circuit où vous découvrirez le village de Morre mais aussi Chapelle des Buis, Notre-Dame de la Libération et son belvédère sur Besançon. Attention toutefois à la descente assez technique en arrivant à Morre.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/buis/illustration_buis.jpg</photo>
+            <duree>2h30</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>6.2</longueur>
+            <denivele>290</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/buis/buis.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/buis/profil_buis.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/buis/buis.flv</video>
+            <lignesBus>Morre :ligne 82</lignesBus>
+            <departX>6.064794</departX>
+            <departY>47.226516</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/buis/buis.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/buis/buis.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="22" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier des Grands Prés</nom>
+            <thematique>Parcours sonore / en famille</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Fontain</commune>
+            <communeAutre>Pugey</communeAutre>
+            <departAutre>Salle du Temps libre (47.186592, 5.993289)</departAutre>
+            <depart>Parking centre-bourg d&apos;Arguel</depart>
+            <arrivee></arrivee>
+            <descriptif>Partez à la découverte des villages d&apos;Arguel et de Pugey, nichés sur les collines du Grand Besançon. Cette randonnée accessible à tous (attention toutefois à une montée à fort dénivelé) vous fera parcourir forêts, champs et ruelles des villages afin d¿entrevoir les patrimoines naturels et bâtis cachés dans ces écrins de beauté. Grâce à la fiche descriptive du sentier, apprenez tous les secrets de ces deux villages.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/pres/illustration_pres.jpg</photo>
+            <duree>3h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>7</longueur>
+            <denivele>230</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/pres/pres.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/pres/profil_pres.jpg</photoProfil>
+            <video></video>
+            <lignesBus>Arguel : ligne 85  Pugey : ligne 86</lignesBus>
+            <departX>6.00348</departX>
+            <departY>47.19871</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/pres/grandspres.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/pres/pres.gpx</gpx>
+            <mp3>https://datasets.grandbesancon.fr/fichiers/rando/pres/baladesonoreGrandsPres.7z</mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="8" type="pédestre" dtInfo="2016-10-11">
+            <nom>Sentier des Rives et du Château</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Montfaucon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>salle d&apos;accueil</depart>
+            <arrivee></arrivee>
+            <descriptif>Boucle pédestre qui alterne sites patrimoniaux, raidillons escarpés et points de vue imprenable</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/rivesetchateau/illustration_riveschateau.jpg</photo>
+            <duree>3h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>8.1</longueur>
+            <denivele>340</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/rivesetchateau/riveschateau.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/rivesetchateau/profil_riveschateau.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/rivesetchateau/rivesetchateau.flv</video>
+            <lignesBus>Montfaucon : ligne 82</lignesBus>
+            <departX>6.077645</departX>
+            <departY>47.234863</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/rivesetchateau/rivesetduchateau.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/rivesetchateau/rivesetchateau.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="13" type="pédestre" dtInfo="2017-06-26">
+            <nom>Sentier du Fort des Epesses</nom>
+            <thematique>Forêt</thematique>
+            <souscategorie>En famille</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Gennes</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Salle polyvalente</depart>
+            <arrivee></arrivee>
+            <descriptif>A travers ces chemins boisés, ce sentier vous fera découvrir deux arbres présidents, un chêne et un sapin, mais aussi le fort des Epesses (fortification du 19ème siècle). Attention toutefois au dénivelé important tout le long du sentier.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/epesses/illustration_epesses.jpg</photo>
+            <duree>3h20</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>9.6</longueur>
+            <denivele>280</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/epesses/epesses.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/epesses/profil_epesses.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/epesses/epesses.flv</video>
+            <lignesBus>Gennes : ligne 81</lignesBus>
+            <departX>6.123795</departX>
+            <departY>47.241244</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/epesses/fortdesepesses.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/epesses/epesses.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+        <rando id="10" type="pédestre" dtInfo="2021-08-31">
+            <nom>Sentier du Fort et des Batteries</nom>
+            <thematique>Découverte paysagère</thematique>
+            <souscategorie>Sportif</souscategorie>
+            <secteur>Plateau</secteur>
+            <commune>Montfaucon</commune>
+            <communeAutre></communeAutre>
+            <departAutre></departAutre>
+            <depart>Salle d&apos;accueil</depart>
+            <arrivee></arrivee>
+            <descriptif>Itinéraire remarquable à connotation militaire, qui rappellera l&apos;époque des fantassins et autres artilleurs. Parcours qui alliera passage en sous-bois et ouverture du paysage sur des points de vue exceptionnels.</descriptif>
+            <alerte></alerte>
+            <photo>https://datasets.grandbesancon.fr/fichiers/rando/fort_et_batteries/fort_et_batteries.jpg</photo>
+            <duree>3h à 4h</duree>
+            <niveau couleur="rouge">difficile</niveau>
+            <longueur>11.6</longueur>
+            <denivele>300</denivele>
+            <pdf>https://datasets.grandbesancon.fr/fichiers/rando/fort_et_batteries/fort_et_batteries.pdf</pdf>
+            <photoProfil>https://datasets.grandbesancon.fr/fichiers/rando/fort_et_batteries/profilfort_et_batteries.jpg</photoProfil>
+            <video>https://datasets.grandbesancon.fr/fichiers/rando/fort/fort.flv</video>
+            <lignesBus>Montfaucon : ligne 81 et 82</lignesBus>
+            <departX>6.077645</departX>
+            <departY>47.234863</departY>
+            <kml>https://datasets.grandbesancon.fr/fichiers/rando/fort/fortetdesbatteries.kml</kml>
+            <gpx>https://datasets.grandbesancon.fr/fichiers/rando/fort_et_batteries/fort_et_batteries.gpx</gpx>
+            <mp3></mp3>
+            <carteGenerale></carteGenerale>
+        </rando>
+    </liste>
+</Rando>

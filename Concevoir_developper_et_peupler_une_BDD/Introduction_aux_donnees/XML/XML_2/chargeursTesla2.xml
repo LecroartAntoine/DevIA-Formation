@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Liste des stations de chargeurs Tesla en France -->
+<chargeursDatas>
+    <chargeurs>
+        <chargeur id="1">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>1</id_station>
+            <n_station>Tesla Supercharger Aire de Reims-Champagne-Nord</n_station>
+            <ad_station>
+                <departement>Marne</departement>
+                <ville>Les Petites-Loges</ville>
+                <code_postal>51400</code_postal>
+                <autoroute>A4</autoroute>
+                <aire>Aire de Reims-Champagne-Nord</aire>
+                <rue></rue>
+            </ad_station>
+            <code_insee>51205</code_insee>
+            <Xlongitude>4.245951</Xlongitude>
+            <Ylatitude>49.11918</Ylatitude>
+            <nbre_pdc>6</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="2">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>2</id_station>
+            <n_station>Tesla Supercharger Aire de Reims-Champagne-Sud</n_station>
+            <ad_station>
+                <departement>Marne</departement>
+                <ville>Les Petites-Loges</ville>
+                <code_postal>51400</code_postal>
+                <autoroute>A4</autoroute>
+                <aire>Aire de Reims-Champagne-Sud</aire>
+                <rue></rue>
+            </ad_station>
+            <code_insee>51205</code_insee>
+            <Xlongitude>4.242234</Xlongitude>
+            <Ylatitude>49.121016</Ylatitude>
+            <nbre_pdc>6</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="3">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>3</id_station>
+            <n_station>Tesla Supercharger Aire du Poulet de Bresse</n_station>
+            <ad_station>
+                <departement>Saône-et-Loire</departement>
+                <ville>Dommartin-lŠs-Cuiseaux</ville>
+                <code_postal>71480</code_postal>
+                <autoroute>A39</autoroute>
+                <aire>Aire du Poulet de Bresse</aire>
+                <rue></rue>
+            </ad_station>
+            <code_insee>71300</code_insee>
+            <Xlongitude>5.310394</Xlongitude>
+            <Ylatitude>46.496179</Ylatitude>
+            <nbre_pdc>10</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>CCS Combo 2 - T2 (sp‚cifique Tesla)</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="4">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>4</id_station>
+            <n_station>Tesla Supercharger Aire d'Urvillers</n_station>
+            <ad_station>
+                <departement>Aisne</departement>
+                <ville>Urvillers</ville>
+                <code_postal>02690</code_postal>
+                <autoroute>A26</autoroute>
+                <aire>Aire d'Urvillers</aire>
+                <rue></rue>
+            </ad_station>
+            <code_insee>2287</code_insee>
+            <Xlongitude>3.335626</Xlongitude>
+            <Ylatitude>49.787019</Ylatitude>
+            <nbre_pdc>8</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="5">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>5</id_station>
+            <n_station>Tesla Supercharger Aix-en-Provence</n_station>
+            <ad_station>
+                <departement>Bouches-du-Rhône</departement>
+                <ville>Aix-en-Provence</ville>
+                <code_postal>13100</code_postal>
+                <autoroute></autoroute>
+                <aire></aire>
+                <rue>Avenue Arc de Meyran</rue>
+            </ad_station>
+            <code_insee>13012</code_insee>
+            <Xlongitude>5.456493</Xlongitude>
+            <Ylatitude>43.510682</Ylatitude>
+            <nbre_pdc>4</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="6">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>6</id_station>
+            <n_station>Tesla Supercharger Aix-en-Provence - Val de l'Arc</n_station>
+            <ad_station>
+                <departement>Bouches-du-Rhône</departement>
+                <ville>Aix-en-Provence</ville>
+                <code_postal>13100</code_postal>
+                <autoroute></autoroute>
+                <aire></aire>
+                <rue>Chemin des Infirmeries</rue>
+            </ad_station>
+            <code_insee>13012</code_insee>
+            <Xlongitude>5.466433</Xlongitude>
+            <Ylatitude>43.511938</Ylatitude>
+            <nbre_pdc>12</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"2"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="7">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>7</id_station>
+            <n_station>Tesla Supercharger Albaret-Sainte-Marie - Aire de La Garde</n_station>
+            <ad_station>
+                <departement>Lorèze</departement>
+                <ville>Albaret-Sainte-Marie</ville>
+                <code_postal>48200</code_postal>
+                <autoroute>A75</autoroute>
+                <aire>Aire de La Garde</aire>
+                <rue></rue>
+            </ad_station>
+            <code_insee>48059</code_insee>
+            <Xlongitude>3.253025</Xlongitude>
+            <Ylatitude>44.870945</Ylatitude>
+            <nbre_pdc>8</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="8">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>8</id_station>
+            <n_station>Tesla Supercharger Amiens</n_station>
+            <ad_station>
+                <departement>Somme</departement>
+                <ville>Dury - Amiens</ville>
+                <code_postal>80000</code_postal>
+                <autoroute></autoroute>
+                <aire></aire>
+                <rue>Route de Paris</rue>
+            </ad_station>
+            <code_insee>80021</code_insee>
+            <Xlongitude>2.278154</Xlongitude>
+            <Ylatitude>49.863496</Ylatitude>
+            <nbre_pdc>10</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="9">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>9</id_station>
+            <n_station>Tesla Supercharger Angoulˆme</n_station>
+            <ad_station>
+                <departement>Charente</departement>
+                <ville>Champniers</ville>
+                <code_postal>16430</code_postal>
+                <autoroute></autoroute>
+                <aire></aire>
+                <rue>122 Rue des Meneaux</rue>
+            </ad_station>
+            <code_insee>16078</code_insee>
+            <Xlongitude>0.179285</Xlongitude>
+            <Ylatitude>45.693058</Ylatitude>
+            <nbre_pdc>8</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"2"</puiss_max>
+            <type_prise>"2"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+        <chargeur id="10">
+            <n_amenageur>Tesla</n_amenageur>
+            <n_operateur>Tesla</n_operateur>
+            <n_enseigne>Tesla Supercharger</n_enseigne>
+            <id_station>10</id_station>
+            <n_station>Tesla Supercharger Archamps</n_station>
+            <ad_station>
+                <departement>Haute-Savoie</departement>
+                <ville>Archamps</ville>
+                <code_postal>74160</code_postal>
+                <autoroute></autoroute>
+                <aire></aire>
+                <rue>Route de Chosal</rue>
+            </ad_station>
+            <code_insee>74016</code_insee>
+            <Xlongitude>6.1243</Xlongitude>
+            <Ylatitude>46.136916</Ylatitude>
+            <nbre_pdc>8</nbre_pdc>
+            <id_pdc></id_pdc>
+            <puiss_max>"1"</puiss_max>
+            <type_prise>"1"</type_prise>
+            <acces_recharge>Tesla</acces_recharge>
+            <accessibilite>24-juil</accessibilite>
+            <observations>Compatible uniquement avec les v‚hicules Tesla (hors Roadster)</observations>
+            <date_maj>20210318</date_maj>
+        </chargeur>
+    </chargeurs>
+    <categoriesPuissanceMax>
+        <categoriePMax id="1">150</categoriePMax>
+        <categoriePMax id="2">250</categoriePMax>
+    </categoriesPuissanceMax>
+    <categoriesTypePrise>
+        <categorieTP id="1">CCS Combo 2 - T2 (sp‚cifique Tesla)</categorieTP>
+        <categorieTP id="2">CCS Combo 2</categorieTP>
+    </categoriesTypePrise>
+
+</chargeursDatas>

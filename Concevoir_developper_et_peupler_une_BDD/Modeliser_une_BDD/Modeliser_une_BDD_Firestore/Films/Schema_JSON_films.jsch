@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "films": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "genre": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "director": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "last_name": {
+                      "type": "string"
+                    },
+                    "first_name": {
+                      "type": "string"
+                    },
+                    "birth_date": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "last_name",
+                    "first_name",
+                    "birth_date"
+                  ]
+                }
+              ]
+            },
+            "actors": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "last_name": {
+                      "type": "string"
+                    },
+                    "first_name": {
+                      "type": "string"
+                    },
+                    "birth_date": {
+                      "type": "integer"
+                    },
+                    "role": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "last_name",
+                    "first_name",
+                    "birth_date",
+                    "role"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "title",
+            "year",
+            "genre",
+            "country",
+            "director",
+            "actors"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "films"
+  ]
+}

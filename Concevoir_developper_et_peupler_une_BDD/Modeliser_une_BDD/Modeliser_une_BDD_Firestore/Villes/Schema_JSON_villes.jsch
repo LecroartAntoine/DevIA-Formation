@@ -1,0 +1,129 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "villes": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "nom": {
+              "type": "string"
+            },
+            "population": {
+              "type": ["integer", "array"],
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "1er Arrondissement": {
+                      "type": "integer"
+                    },
+                    "CP": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "1er Arrondissement"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "2ème Arrondissement": {
+                      "type": "integer"
+                    },
+                    "CP": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "2ème Arrondissement"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "3ème Arrondissement": {
+                      "type": "integer"
+                    },
+                    "CP": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "3ème Arrondissement"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "4ème Arrondissement": {
+                      "type": "integer"
+                    },
+                    "CP": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "4ème Arrondissement"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "5ème Arrondissement": {
+                      "type": "integer"
+                    },
+                    "CP": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "5ème Arrondissement"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "6ème Arrondissement": {
+                      "type": "integer"
+                    }
+                  }
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "7ème Arrondissement": {
+                      "type": "integer"
+                    }
+                  }
+                }
+              ]
+            },
+            "region": {
+              "type": "string"
+            },
+            "departement": {
+              "type": "string"
+            },
+            "appreciation": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "nom",
+            "population",
+            "region",
+            "departement",
+            "appreciation"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "villes"
+  ]
+}
